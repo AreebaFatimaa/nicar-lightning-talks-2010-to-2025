@@ -1,0 +1,90 @@
+NICAR Lightning Talks: Theme Trends Analysis (2010-2025)
+=========================================================
+
+OVERALL TOTALS (161 talks across 15 themes)
+--------------------------------------------
+Programming & Tools         26 talks (16.1%)
+Data Visualization & Charts 15 talks (9.3%)
+Newsroom Culture & Career   17 talks (10.6%)
+Data Habits                 19 talks (11.8%)
+FOIA & Public Records       12 talks (7.5%)
+Storytime                   21 talks (13.0%)
+Investigations              12 talks (7.5%)
+Humor & Satire               8 talks (5.0%)
+AI & Machine Learning        8 talks (5.0%)
+Mapping & Geospatial         4 talks (2.5%)
+Elections & Politics         4 talks (2.5%)
+Data Analysis & Statistics   7 talks (4.3%)
+Climate & Environment        3 talks (1.9%)
+Accessibility & Design       3 talks (1.9%)
+Scraping & Data Collection   2 talks (1.2%)
+
+KEY TRENDS
+----------
+
+1. THE DECLINE OF CODE TALKS (2010-2019)
+   Programming & Tools was the dominant theme from 2010-2015, peaking at
+   7 out of 10 talks in 2011. By 2017, it had dropped to zero. The early
+   years were about teaching the newsroom how to code; once the baseline
+   was established, the conversation moved on.
+
+2. THE RISE OF NEWSROOM CULTURE (2018-2019)
+   Newsroom Culture & Career exploded in 2018 (5 talks) and 2019 (6 talks),
+   making it the single biggest theme in those years. Talks covered unions,
+   impostor syndrome, racism in code, alcohol in journalism, and career
+   sustainability. This reflects a broader industry reckoning about
+   workplace conditions and diversity.
+
+3. DATA VIZ PEAKED EARLY, THEN FADED
+   Data Visualization had its strongest years in 2010, 2014, and 2015
+   (3-4 talks each). After 2016, it nearly disappeared from the lineup.
+   Possible explanation: once tools like Datawrapper and Flourish became
+   mainstream, the need to evangelize visualization techniques lessened.
+
+4. STORYTIME IS THE LATE-ERA STAPLE
+   Storytime (history, personal narratives, storytelling about data) barely
+   existed before 2016 but became the top theme in 2020 (4 talks) and 2025
+   (4 talks). Data journalists increasingly use lightning talks to share
+   personal stories and lessons rather than technical how-tos.
+
+5. FOIA SURGES IN CYCLES
+   FOIA & Public Records shows a cyclical pattern: absent in the early years,
+   it peaked in 2017 (2), 2019 (2), 2021 (3), and 2025 (3). These surges
+   correlate with political administrations that were perceived as less
+   transparent, suggesting FOIA advocacy intensifies in response to secrecy.
+
+6. AI IS A SLOW BURN
+   Despite the AI hype cycle, AI & Machine Learning has never had more than
+   2 talks in a single year (2013, 2014). It appeared sporadically in
+   2022-2024 with 1 talk each. Data journalists have been cautious adopters,
+   not early evangelists.
+
+7. DATA HABITS: THE EVERGREEN
+   Data Habits (productivity, workflow, self-improvement) is the most
+   consistent theme, appearing in 11 of 16 years. It peaked in 2013, 2017,
+   and 2023 with 3 talks each. Journalists never stop wanting to work
+   smarter.
+
+8. HUMOR FADES BUT NEVER DIES
+   Humor & Satire was most prominent in 2012-2013 (2-1 talks), had
+   scattered appearances since, and remains a beloved tradition. The
+   conference has gotten more serious, but the spirit of fun persists.
+
+ERA SUMMARY
+-----------
+2010-2012: The Technical Era
+  Dominated by Programming & Tools (17 of 30 talks). The community was
+  building foundational coding skills.
+
+2013-2016: The Diversification Era
+  Themes broadened significantly. Data Viz, Data Habits, Elections, and
+  AI all entered the mix. No single theme dominated.
+
+2017-2019: The Culture Shift
+  Newsroom Culture exploded. FOIA and Elections appeared as political
+  awareness grew. Technical talks nearly vanished.
+
+2020-2025: The Reflection Era
+  Storytime and FOIA dominate. Journalists tell personal stories and
+  fight for transparency. Investigations and accountability grow. The
+  community has matured from "how to code" to "why we do this work."
